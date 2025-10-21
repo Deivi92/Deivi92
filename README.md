@@ -12,7 +12,7 @@
 
 ## 💼 Perfil Profesional
 
-Desarrollador Full-Stack especializado en Java/Spring Boot con enfoque en arquitecturas empresariales y **desarrollo ético de software**. Aplico **arquitectura en capas**, **TDD** y **principios SOLID** para construir sistemas escalables y mantenibles. Formación respaldada por certificaciones de **IBM** y **Amazon** que enfatizan **responsabilidad profesional**, **estándares globales** y **código limpio**. Experto en diseñar APIs REST seguras con JWT, implementar testing riguroso (cobertura >89%) y construir interfaces modernas con React/TypeScript.
+Desarrollador Full-Stack especializado en Java/Spring Boot con enfoque en arquitecturas empresariales y **desarrollo ético de software**. Aplico **arquitectura en capas**, **TDD** y **principios SOLID** para construir sistemas escalables y mantenibles. Formación respaldada por certificaciones de **IBM** y **Amazon** que enfatizan **responsabilidad profesional**, **estándares globales** y **código limpio**. Experto en diseñar APIs REST seguras con JWT, implementar testing riguroso  y construir interfaces modernas con React/TypeScript.
 
 ---
 
