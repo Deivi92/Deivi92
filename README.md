@@ -1,5 +1,5 @@
 # Deivi Arismendi
-🚀 Desarrollador Full-Stack Java orientado a dominio, con enfoque ético y diseño de software empresarial.
+🚀 Desarrollador bakend Java orientado a dominio, con enfoque ético y diseño de software empresarial.
 
 **Java • Spring Boot • React**
 
@@ -12,7 +12,7 @@
 
 ## 💼 Perfil Profesional
 
-Desarrollador Full-Stack especializado en Java/Spring Boot con enfoque en arquitecturas empresariales y **desarrollo ético de software**. Aplico **arquitectura en capas**, **TDD** y **principios SOLID** para construir sistemas escalables y mantenibles. Formación respaldada por certificaciones de **IBM** y **Amazon** que enfatizan **responsabilidad profesional**, **estándares globales** y **código limpio**. Experto en diseñar APIs REST seguras con JWT, implementar testing riguroso  y construir interfaces modernas con React/TypeScript.
+Desarrollador bakend especializado en Java/Spring Boot con enfoque en arquitecturas empresariales y **desarrollo ético de software**. Aplico **arquitectura en capas**, **TDD** y **principios SOLID** para construir sistemas escalables y mantenibles. Formación respaldada por certificaciones de **IBM** y **Amazon** que enfatizan **responsabilidad profesional**, **estándares globales** y **código limpio**. Conocimiento profundo en diseñar APIs REST seguras con JWT, implementar testing riguroso  y construir interfaces modernas con React/TypeScript.
 
 ---
 
@@ -77,4 +77,4 @@ Proyecto: [MinaControl API](https://github.com/Deivi92/mina-control-api) • Swa
 
 ---
 
-📌 **CV actualizado octubre 2025** • Disponible para entrevistas técnicas inmediatas
+📌 **CV  • Disponible para entrevistas técnicas inmediatas
